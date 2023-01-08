@@ -1,0 +1,7 @@
+Origin: Manala
+Label: Manala
+Codename: stable
+Architectures: amd64 arm64 armhf i386
+Components: main
+Description: Manala apt repository
+SignWith: 1394DEA3
