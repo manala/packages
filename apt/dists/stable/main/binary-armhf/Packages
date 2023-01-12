@@ -1,0 +1,16 @@
+Package: manala
+Version: 0.18.1
+Architecture: armhf
+Maintainer: Manala <contact@manala.io>
+Installed-Size: 16832
+Suggests: git
+Homepage: https://github.com/manala/manala
+Priority: optional
+Section: 
+Filename: pool/main/m/manala/manala_0.18.1_armhf.deb
+Size: 6078274
+SHA256: 4eaabf44cc6cc1ed8e07bab067e2689946816f79fd8233b4bff439689b6b668a
+SHA1: cd81deee63f9e9c143e80d0e3fd4c2712a257d56
+MD5sum: 88d353fdf0687f49200f5ec0a03a0727
+Description: Let your project's plumbing up to date
+

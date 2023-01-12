@@ -1,0 +1,5 @@
+Component: main
+Origin: Manala
+Label: Manala
+Architecture: arm64
+Description: Manala apt repository

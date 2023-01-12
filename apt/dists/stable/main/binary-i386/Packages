@@ -1,0 +1,16 @@
+Package: manala
+Version: 0.18.1
+Architecture: i386
+Maintainer: Manala <contact@manala.io>
+Installed-Size: 16808
+Suggests: git
+Homepage: https://github.com/manala/manala
+Priority: optional
+Section: 
+Filename: pool/main/m/manala/manala_0.18.1_i386.deb
+Size: 5968420
+SHA256: 600c6f99bf9541084db0a5ca8f82bf7c15624a265ecb38c113cc36dcff31cd79
+SHA1: e52433b7ba9488c9105334cfc5410ede044008a0
+MD5sum: 71c17bcaece0f1042b2576639738dbfa
+Description: Let your project's plumbing up to date
+
