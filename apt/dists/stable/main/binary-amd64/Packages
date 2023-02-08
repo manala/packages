@@ -1,16 +1,16 @@
 Package: manala
-Version: 0.18.1
+Version: 0.18.2
 Architecture: amd64
 Maintainer: Manala <contact@manala.io>
-Installed-Size: 18120
+Installed-Size: 18184
 Suggests: git
 Homepage: https://github.com/manala/manala
 Priority: optional
 Section: 
-Filename: pool/main/m/manala/manala_0.18.1_amd64.deb
-Size: 6377708
-SHA256: fd44fb0042982977f20f9f60ec5a0a3dd4e69acb090e065693f1ded54f268ecc
-SHA1: 9c292fd0f2f4e429c891d399e3d8c1c855fe6795
-MD5sum: 5b43ff572425691ec74fa24bee5218a8
+Filename: pool/main/m/manala/manala_0.18.2_amd64.deb
+Size: 6378412
+SHA256: 68896c5779c7117719a09fe6c14a1cd01ef9c39d40fae5f6c713732a62db44df
+SHA1: 791e588f07f13553592a90befc76a9733d2fb216
+MD5sum: bac81d2e1f34579125b2dbc80450ef8f
 Description: Let your project's plumbing up to date
 
